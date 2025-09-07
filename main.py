@@ -279,4 +279,3 @@ if __name__ == "__main__":
     t = Thread(target=bot.polling)
     t.start()
 
-
